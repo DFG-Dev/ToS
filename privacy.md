@@ -3,7 +3,7 @@
 *Last modified on 08/29/2022 (MM/DD/YYYY)*
 
 ### Introduction
-Your privacy is important to us. It is strawberry's policy to respect your privacy and comply with any applicable law and regulation regarding any personal information we may collect about you. This policy is effective as of 08/21/2022 and was last updated on 08/21/2022
+Your privacy is important to us. It is strawberry's policy to respect your privacy and comply with any applicable law and regulation regarding any personal information we may collect about you. This policy is effective as of 08/21/2022 and was last updated on 08/29/2022
 
 ------------
 
