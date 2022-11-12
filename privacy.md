@@ -1,9 +1,9 @@
 # Privacy Policy
 
-*Last modified on 08/29/2022 (MM/DD/YYYY)*
+*Last modified on 11/12/2022 (MM/DD/YYYY)*
 
 ### Introduction
-Your privacy is important to us. It is strawberry's policy to respect your privacy and comply with any applicable law and regulation regarding any personal information we may collect about you. This policy is effective as of 08/21/2022 and was last updated on 08/29/2022
+Your privacy is important to us. It is strawberry's policy to respect your privacy and comply with any applicable law and regulation regarding any personal information we may collect about you. This policy is effective as of 08/21/2022 and was last updated on 11/12/2022
 
 ------------
 
@@ -18,6 +18,9 @@ Servers can use a level system. For these, the following data is collected: user
 
 ### Embedmaker
 We store the messageId as well as the embed content* with our embedmaker to be able to provide it to you at any time. *Embed content is the content you can specify with our embedmaker such as the footer, title and a field with the associated parameters.
+
+### Upvotes
+If you vote on a vote platform where our Discord bot is, we will save the last time you voted. If you have not voted for the bot for more than 2 months we will remove it from our database.
 
 
 ------------
