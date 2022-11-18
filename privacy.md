@@ -25,10 +25,10 @@ If you vote on a vote platform where our Discord bot is, we will save the last t
 ### Caching
 We store data from you, such as your coins for the store, in a cache. A cache is a system to make fewer requests to our database. We store your data in the cache up to one hour before this data is processed again and stored in our database.
 
-###Server shops
+### Server shops
 We offer the function that the server owner can create a rank store on his server. We save your userID, the serverID and the ranks in the store and your coins.
 
-###Coins
+### Coins
 We assign coins as soon as you perform any activity on a server. These are stored as long as you are on the server, as soon as you leave the server we keep them for 2 hours and then delete them automatically.
 
 
