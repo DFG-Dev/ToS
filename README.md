@@ -13,5 +13,11 @@ Virtual items (including but not limited to images, graphics, designs, text, vid
 
 ------------
 
+### Exploitation
+Any kind of exploitation, such as exploiting bugs or similar things, may result in your guilds being blocked by our bots, which means that you will no longer be able to run a bot from the ``Discord Fruit Group`` on your guilds.
+
+
+------------
+
 ### Privacy
 To learn more about our privacy policy, please see [here](http://comming.com "here")
