@@ -34,6 +34,9 @@ Your privacy is important to us. It is strawberry's policy to respect your priva
 ### Guild Information (GuildID, Invite Link)
 * We store your GuildID to uniquely assign your server. This is necessary for almost every function of our bot, otherwise you will not be able to work. A unique invite link will be created from your server that will not expire. You can delete this at any time in your Guild settings
 
+### Music System
+* We give you the opportunity to listen to music with our bot. For this we process your GuildID and which song you listen to in which channel. We also check whether you are in a channel and which channel you are in if you are in a channel when you execute the command. We need this to send the bot to your voice channel. We need the GuildID and the song name to stream the song from a platform and the GuildID to use the queue system, for example.
+
 ------------
 
 ## When will Guild data be deleted?
